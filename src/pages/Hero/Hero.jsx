@@ -164,7 +164,7 @@ const profile = {
               {/* Resume Button - 1st line */}
               <div className="mb-4">
                 <a 
-                href="https://drive.google.com/file/d/1GSHaqaKIl9T-EHr1j0wG9txyOZ1i-7Ij/view?usp=sharing"
+                href="https://drive.google.com/file/d/1U1g0XilVNBXzPQyMBsg_Ao42VN_IzkL9/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center justify-center gap-3 p-0.5 rounded-xl bg-gradient-to-r from-gray-800 to-gray-700 transition-all duration-300 hover:scale-105 hover:shadow-[0_0_2rem_-0.5rem_#60A5FA]"
