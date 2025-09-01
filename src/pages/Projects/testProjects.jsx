@@ -7,7 +7,7 @@ import weatherImg from "@/assets/images/weather.png";
 import netflixImg from "@/assets/images/netflix.png";
 import plantImg from "@/assets/images/plant.png";
 import Meteors from "@/components/ui/meteors";
-import summaryImg from "@assets/images/summary.png";
+import summaryImg from "@/assets/images/summary.png";
 
 const projects = [
   {
