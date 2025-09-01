@@ -7,7 +7,7 @@ import weatherImg from "@/assets/images/weather.png";
 import netflixImg from "@/assets/images/netflix.png";
 import plantImg from "@/assets/images/plant.png";
 import Meteors from "@/components/ui/meteors";
-import summaryImg from "@/assets/images/summary.png";
+// import summaryImg from "@/assets/images/summary.png";
 
 const projects = [
   {
@@ -62,18 +62,8 @@ const projects = [
     color: "#8f89ff",
     githubLink: "https://github.com/ridafatima1210/plant-vigil",
     liveLink: "",  
-  }, 
-  {
-
-  title: "SummarMuse",
-    description:
-      "SummarMuse is an AI-powered document summarization tool that helps users generate concise and high-quality summaries from PDFs, text files, and images. Built with React, Vite, TailwindCSS, and Framer Motion for a clean and responsive UI, the app integrates the Gemini API for accurate AI-driven summarization. Users can select Short, Medium, or Long summaries based on their needs. The backend is deployed on Render for secure API handling, while the frontend is hosted on Vercel for fast and reliable performance.",
-    src: summmaryImg,
-    link: "",
-    color: "#8f89ff",
-    githubLink: "https://github.com/ridafatima1210/SummarMuse",
-    liveLink: "https://summar-muse.vercel.app/",  
   }
+  
 
 
 ];
